@@ -8,7 +8,7 @@ The analysis evaluates how promotional activities influence sales performance, c
 ---
 
 ## Dataset Description
-The dataset used in this project is **company_data 1.xlsx**. It contains transactional sales data across multiple regions, product categories, and promotion types.
+The dataset used in this project is **https://www.kaggle.com/datasets/abdelrahmanmohamed75/company-analysis-prediction**. It contains transactional sales data across multiple regions, product categories, and promotion types.
 
 ### Key Columns in the Dataset
 - **Order ID** – Unique identifier for each transaction  
